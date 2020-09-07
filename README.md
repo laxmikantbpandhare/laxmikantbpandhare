@@ -6,8 +6,8 @@
   <a href="https://twitter.com/laxmikantpandha">
     <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
   </a>
- <a href="https://medium.com/@akanksharaghav">
-    <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
+ <a href="https://medium.com/@laxmikantpandhare">
+    <img src="https://img.shields.io/badge/laxmikantpandharef?style=flat&logo=medium">
   </a>
 </p>
 
