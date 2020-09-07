@@ -34,12 +34,14 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> 
+ <img src=https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg alt=graphql width="50" height="50"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="50" height="50"/> 
  <img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg alt=AWS width="50" height="50"/> 
  <img src=https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg alt=prometheus width="50" height="50"/> 
  <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg alt=kafka width="50" height="50"/> 
+ <img src=https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg alt=rabbitmq width="50" height="50"/> 
 </p>
 
 
