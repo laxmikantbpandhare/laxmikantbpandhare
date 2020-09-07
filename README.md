@@ -29,7 +29,6 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <img src=https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg alt=kubernetes width="50" height="50"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg alt=go width="50" height="50"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
- <img src=https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg alt=springjpa width="50" height="50"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg alt=docker width="50" height="50"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
