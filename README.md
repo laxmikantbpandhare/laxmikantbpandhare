@@ -15,6 +15,8 @@ Hi!👋 I am Laxmikant Pandhare.<br>A technology enthusiast who loves to explore
 <p align="center">
  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/> 
  <img src=https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg alt=kubernetes width="50" height="50"/> 
+ <img src=https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg alt=go width="50" height="50"/> 
+ <img src=https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg alt=docker width="50" height="50"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
