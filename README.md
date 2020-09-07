@@ -41,7 +41,6 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg alt=AWS width="50" height="50"/> 
  <img src=https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg alt=prometheus width="50" height="50"/> 
  <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg alt=kafka width="50" height="50"/> 
- <img src=https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg alt=rabbitmq width="50" height="50"/> 
 </p>
 
 
