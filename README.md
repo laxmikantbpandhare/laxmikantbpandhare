@@ -38,7 +38,8 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="50" height="50"/> 
  <img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg alt=AWS width="50" height="50"/> 
- <img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg alt=AWS width="50" height="50"/> 
+ <img src=https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg alt=prometheus width="50" height="50"/> 
+ <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg alt=kafka width="50" height="50"/> 
 </p>
 
 
