@@ -13,9 +13,13 @@
     <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
   </a>
   
+  <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
+    <img src="https://img.shields.io/badge/-Laxmikant%20Pandhare-red?style=flat&logo=youtube>
+  </a>
+  
 </p>
 
-Hi!👋 I am Laxmikant Pandhare (Red Hatter  <img src=https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg alt=redhatter width="40" height="40"/> ). Graduate Student at San Jose State University<br>
+Hi!👋 I am Laxmikant Pandhare (Red Hatter  <img src=https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg alt=redhatter width="40" height="40"/> ). Graduate Student at San Jose State University.<br>
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
 <p align="center">
  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/> 
