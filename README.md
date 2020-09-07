@@ -11,7 +11,8 @@
   </a>
 </p>
 
-Hi!👋 I am Laxmikant Pandhare.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
+Hi!👋 I am Laxmikant Pandhare. Graduate Student at San Jose State University<br>
+A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
 <p align="center">
  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/> 
  <img src=https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg alt=kubernetes width="50" height="50"/> 
