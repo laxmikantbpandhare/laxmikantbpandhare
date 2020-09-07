@@ -1,5 +1,5 @@
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=laxmikantbpandhare alt=laxmikantbpandhare/></p>
 Hi!👋 I am Laxmikant Pandhare.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /><br>
 Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
@@ -11,8 +11,8 @@ Its well said that:
   <a href="https://www.linkedin.com/in/laxmikantpandhare">
     <img src="https://img.shields.io/badge/laxmikantpandhare?style=flat&logo=linkedin">
   </a> &nbsp; 
-  <a href="https://twitter.com/AkankshaRaghav9">
-    <img src="https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter">
+  <a href="https://twitter.com/laxmikantpandha">
+    <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
   </a>
  <a href="https://medium.com/@akanksharaghav">
     <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
