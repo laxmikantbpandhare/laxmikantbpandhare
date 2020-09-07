@@ -13,7 +13,8 @@
 
 Hi!👋 I am Laxmikant Pandhare.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
 <p align="center">
-  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/> 
+ <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/> 
+ <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
