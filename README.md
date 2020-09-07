@@ -25,7 +25,7 @@ Cheers!
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
 
 
-[![Akanksha Raghav's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav)](https://github.com/akanksha-raghav/github-readme-stats)
+[![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats)
 
 
 <!--
