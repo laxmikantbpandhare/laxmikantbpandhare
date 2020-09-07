@@ -1,7 +1,7 @@
 <p align="left"> 
  <img src=https://komarev.com/ghpvc/?username=laxmikantbpandhare alt=laxmikantbpandhare/>
   <a href="https://www.linkedin.com/in/laxmikantpandhare">
-    <img src="https://img.shields.io/badge/Linkedin-Laxmikant%20Pandhare-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Laxmikant-Pandhare-blue?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/laxmikantpandha">
     <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
