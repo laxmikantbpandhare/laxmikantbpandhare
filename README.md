@@ -10,9 +10,10 @@
   </a> &nbsp; 
 
   
-  <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
-    <img src="https://img.shields.io/badge/-Laxmikant%20Pandhare-red?style=flat&logo=youtube>
+ <a href="https://medium.com/@laxmikantpandhare">
+    <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
   </a>
+
   
 </p>
 
