@@ -1,14 +1,18 @@
 <p align="left"> 
  <img src=https://komarev.com/ghpvc/?username=laxmikantbpandhare alt=laxmikantbpandhare/>
+ 
+   <a href="https://twitter.com/laxmikantpandha">
+    <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
+  </a>
+ 
   <a href="https://www.linkedin.com/in/laxmikantpandhare">
     <img src="https://img.shields.io/badge/Laxmikant-Pandhare-blue?style=flat&logo=linkedin">
   </a> &nbsp; 
-  <a href="https://twitter.com/laxmikantpandha">
-    <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
-  </a>
+
  <a href="https://medium.com/@laxmikantpandhare">
-    <img src="https://img.shields.io/badge/laxmikantpandharef?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
   </a>
+  
 </p>
 
 Hi!👋 I am Laxmikant Pandhare. Graduate Student at San Jose State University<br>
