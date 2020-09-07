@@ -21,7 +21,7 @@
   
 </p>
 
-Hi!👋 I am Laxmikant Pandhare (Red Hatter  <img src=https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg alt=redhatter width="40" height="40"/> ). Graduate Student at San Jose State University. Proud Gopher, Kubernetes enthusiast.<br>
+Hi!👋 I am Laxmikant Pandhare (Red Hatter  <img src=https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg alt=redhatter width="40" height="40"/> ). Graduate Student at San Jose State University. Kubernetes enthusiast.<br>
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
 <p align="left">
  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/> 
