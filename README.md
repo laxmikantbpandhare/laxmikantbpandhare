@@ -44,22 +44,22 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 </p>
 
 <p align="center">
-  <a href="https://github.com/laxmikantbpandhare">
+<!--   <a href="https://github.com/laxmikantbpandhare">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantbpandhare&layout=compact&hide=php"
     />
-  </a>
+  </a> -->
  
-   <a href="https://github.com/vedantbhoj">
+ <!--    <a href="https://github.com/vedantbhoj">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
-  </a>
-<!-- 
-[![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats) -->
+  </a>-->
+
+[![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats)
 
 </p>
 
