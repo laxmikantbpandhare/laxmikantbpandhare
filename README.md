@@ -43,7 +43,7 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg alt=kafka width="50" height="50"/> 
 </p>
 
-
+<p align="center">
   <a href="https://github.com/laxmikantbpandhare">
     <img
       align="center"
@@ -52,6 +52,8 @@ A technology enthusiast who loves to explore new technologies and leverage it to
   </a>
 
 [![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats)
+
+</p>
 
 
 
