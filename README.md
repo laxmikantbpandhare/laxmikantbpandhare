@@ -60,6 +60,11 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
 </p>
 
+<a href="https://github.com/mcornella">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcornella&layout=compact&theme=vue">
+</a>
+
 
 
 <!--
