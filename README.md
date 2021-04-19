@@ -56,6 +56,8 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
 [![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats)
 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantbpandhare&layout=compact&theme=vue">
+
 </p>
 
 
