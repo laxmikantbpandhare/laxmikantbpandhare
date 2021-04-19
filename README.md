@@ -56,12 +56,10 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
 [![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats)
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantbpandhare&layout=compact&theme=vue">
-
 </p>
 
-<a href="https://github.com/mcornella">
-[![Laxmikant Pandhare's github stats](https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare)](https://github.com/laxmikantbpandhare/github-readme-stats)
+<a href="https://github.com/laxmikantbpandhare">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=laxmikantbpandhare&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantbpandhare&layout=compact&theme=vue">
 </a>
 
