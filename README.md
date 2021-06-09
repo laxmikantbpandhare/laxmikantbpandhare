@@ -6,10 +6,7 @@
   <a href="https://www.linkedin.com/in/laxmikantpandhare">
     <img src="https://img.shields.io/badge/Laxmikant-Pandhare-blue?style=flat&logo=linkedin">
   </a> &nbsp; 
-  
-   <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
-    <img src="https://img.shields.io/badge/-Laxmikant%20Pandhare-red?style=flat&logo=youtube">
-  </a> &nbsp; 
+
   
  <a href="https://medium.com/@laxmikantpandhare">
     <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
@@ -18,6 +15,11 @@
    <a href="https://twitter.com/laxmikantpandha">
     <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
   </a>&nbsp; 
+ 
+   
+   <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
+    <img src="https://img.shields.io/badge/-Laxmikant%20Pandhare-red?style=flat&logo=youtube">
+  </a> &nbsp; 
 
   
 </p>
